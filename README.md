@@ -152,7 +152,7 @@ Fork란?
 해당 Repository를 내 Github Repository로 그대로 복제하는 기능이다.
 
 Fork한 Repository는 원본 Repository와 연결되어 있어,  
-원본 Repository에 변화가 생기면, Fork한 Repository에 반영할 수 있다.
+원본 Repository에 변화가 생기면, Fork한  Repository에 반영할 수 있다.
 ```
 
 3. 복제된 본인의 Repository에 접속 후에, `Code ▼`라는 초록색 버튼이 있는데 클릭하여 URL 주소 (https:/~)을 복사하거나,`Download ZIP` 을 통해 해당 패키지를 다운 받습니다.
